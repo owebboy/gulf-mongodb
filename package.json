@@ -4,7 +4,7 @@
   "description": "Gulf storage adapter for mongodb",
   "main": "index.js",
   "dependencies": {
-    "mongoose": "4.x"
+    "mongoose": "5.11.7"
   },
   "repository": {
     "type": "git",
